@@ -41,7 +41,7 @@ gexp<-function(ref=NULL,file){
   ref_data<-get_excel_data(ref)
   target_data<-get_excel_data(file)
   
-  ref
+  ## ref
   
   return(target_data)
 }
