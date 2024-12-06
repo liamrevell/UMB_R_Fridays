@@ -1,0 +1,6 @@
+Species1 
+> ACGTACGTACG
+Species2 
+> GATTACAGATT
+Species3 
+> ACGTGCATATT

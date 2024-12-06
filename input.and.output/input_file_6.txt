@@ -1,0 +1,3 @@
+"",trait 1,trait 2
+Species 1,4.2,4.4
+Species 2,5.1,3.9
